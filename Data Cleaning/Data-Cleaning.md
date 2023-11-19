@@ -2,6 +2,8 @@
 
 Data cleaning is an important step in the data analysis process, ensuring accuracy and credibility of insights derived from the data.
 ![Cleaning Image 1](./Data Cleaning/cleaning1.png)
+![Cleaning Image 1](./Data Cleaning/cleaning1.png)
+
 
 ## Duplicate Check
 
