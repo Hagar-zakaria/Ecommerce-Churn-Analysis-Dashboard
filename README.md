@@ -9,7 +9,6 @@ In the dynamic landscape of online retail, understanding customer churn is param
 
 - [Data Cleaning](./Data%20Cleaning/Data-Cleaning.md)
 - [Data Analysis and Visualization](./Data-Analysis-Visualization.md)
-- [Questions and Answers](./Questions-Answers.md)
 - [Dashboard Insights](./Dashboard-Insights.md)
 - [Recommendations](./Recommendations.md)
 
