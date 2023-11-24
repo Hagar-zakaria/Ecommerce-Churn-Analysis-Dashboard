@@ -2,7 +2,7 @@ In the dataset sheet I added a new column called count and filled it up with 1s 
 
 Next,I created a pivot table in a new sheet. Then inserted a calculated field called churn rate that is churn/count.
 
-![Datavisualization1](https://github.com/Hagar-zakaria/Ecommerce-Churn-Analysis-Dashboard/blob/main/Data%20Analysis%20Visualization/DataAnalysisVisualizationimages/Datavisualization1.png)
+![Datavisualization1](https://github.com/Hagar-zakaria/Ecommerce-Churn-Analysis-Dashboard/raw/main/Data%20Analysis%20Visualization/DataAnalysisVisualizationimages/Datavisualization1.png)
 
 1. What is the churn rate distribution among different payment methods used by customers?
 
