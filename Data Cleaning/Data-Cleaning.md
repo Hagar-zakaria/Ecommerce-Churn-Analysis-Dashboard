@@ -1,7 +1,8 @@
 # Data Cleaning
 
 Data cleaning is an important step in the data analysis process, ensuring accuracy and credibility of insights derived from the data.
-![Cleaning Image 1](Data-Cleaning-images/cleaning1.png)
+![cleaning 1](https://github.com/Hagar-zakaria/Ecommerce-Churn-Analysis-Dashboard/assets/93611934/19b465ce-9869-4538-862a-db86e1c928b7)
+
 
 
 ## Duplicate Check
