@@ -13,12 +13,15 @@ I checked for duplicates, but fortunately, no duplicates were identified.
 ## Churn Column
 
 The "Churn" column has two values, 1 and 0. Here, 0 signifies an active customer, while 1 indicates a churned customer. For clarity, I created a new column called "Churned Status." Using the IF statement, I replaced 1 with "Churned" and 0 with "Active," providing a more descriptive representation of the customer status.
-![Cleaning Image 2](Data_Cleaning/Data-Cleaning-images/cleaning2.png)
+
+![Cleaning 2](https://github.com/Hagar-zakaria/Ecommerce-Churn-Analysis-Dashboard/assets/93611934/cb33a43f-13ed-4d75-ba2d-c7c2f85a49af)
+
 
 ## Tenure Column
 
 I addressed missing values by filling them with the mean value. Additionally, I created a new column named "Tenure Range" and categorized tenure into groups: 0–6 months, 1 year, 2 years, and more than 2 years for a better representation using the IF statement.
-![Cleaning Image 3](Data_Cleaning/Data-Cleaning-images/cleaning3.png)
+
+![cleaning 3](https://github.com/Hagar-zakaria/Ecommerce-Churn-Analysis-Dashboard/assets/93611934/30e9d91a-6308-4579-8453-f7a389d92f00)
 
 ## Preferred Login Device Column
 
