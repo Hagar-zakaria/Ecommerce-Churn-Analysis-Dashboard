@@ -5,6 +5,7 @@ Next,I created a pivot table in a new sheet. Then inserted a calculated field ca
 
 1. What is the churn rate distribution among different payment methods used by customers?
 
+![Payment Methods Churn Rate](images/payment_methods_churn_rate.png)
 
 Cash on Delivery shows the highest churn rate, indicating potential challenges in the final stages of the transaction process. E-wallets also show a significant churn rate ,Suggesting issues with the payment process or overall satisfaction. On the other hand, Credit Card transactions have the lowest churn rate at .
 
