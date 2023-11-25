@@ -1,3 +1,6 @@
+
+![Dashboard](https://github.com/Hagar-zakaria/Ecommerce-Churn-Analysis-Dashboard/assets/93611934/2b4d2e91-3c57-48ff-908f-9aced5a20c40)
+
 # Dashboard Insights
 
 The dataset includes 5,630 customers, and the overall churn rate is 16.8%, indicating a significant portion of customers disengaging with the platform.
